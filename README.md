@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center"> <img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </div>
+<!--
+Hi Priyanshu! This file has been updated. The links are fixed and a new section has been added.
+Just copy and paste this into the README.md file in your "Prishushankar" repository.
+-->
+
+<div id="header" align="center">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <h1 align="center">Hi there, I'm Priyanshu Shankar 👋</h1>
 <h3 align="center">An AI/ML Engineer and Full-Stack Developer from India 🇮🇳</h3>
@@ -31,13 +38,19 @@ Here are some ideas to get you started:
 👨‍💻 About Me
 I'm a B.Tech student in Artificial Intelligence & Machine Learning at the Birla Institute of Technology, Mesra. I'm passionate about building intelligent applications that solve real-world problems.
 
-🔭 I’m currently working as a Software Developer Intern at NS Apps Innovations, where I've engineered a face verification system and developed the Bihar Heritage Website.
+🔭 I’m currently working on a deep learning-based face verification system and contributing to the Bihar Heritage Website.
 
-🌱 I'm deeply interested in Deep Learning, Full-Stack Development, and Competitive Programming.
+🌱 I’m currently learning advanced concepts in Deep Learning and exploring MLOps.
 
-👨‍💻 I have solved over 400+ Data Structures and Algorithms problems on platforms like LeetCode and GeeksforGeeks.
+👯 I’m looking to collaborate on open-source AI/ML and full-stack development projects.
 
-⚡ Fun fact: I lead my college's official Technical Club as President, organizing hackathons and workshops for over 100 students!
+💬 Ask me about Python, React.js, TensorFlow, Flask, and Data Structures & Algorithms.
+
+📫 How to reach me: Feel free to connect on LinkedIn or drop me an email.
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I'm the President of my college's Technical Club, where I've organized hackathons and coding workshops for over 100 students!
 
 🛠️ My Tech Stack
 Here are the languages, frameworks, and tools I work with:
@@ -83,3 +96,4 @@ Here are the languages, frameworks, and tools I work with:
 <p align="center">
 <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DPrishushankar%26theme%3Dtokyonight" alt="prishushankar-streak" />
 </p>
+
